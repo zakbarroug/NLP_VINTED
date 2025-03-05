@@ -1,4 +1,5 @@
-# 🔍 Moteur de recherche sémantique d'Avis avec explications
+# 🔍 Moteur de recherche sémantique d'avis Vinted avec explications      ![image](https://github.com/user-attachments/assets/2dda9447-bc63-47a2-9914-50ee26fdc578)
+
 
 Ce projet propose un moteur de recherche d'avis client de Vinted qui identifie rapidement les avis les plus pertinents et offre des explications claires sur leur intérêt.
 ![image](https://github.com/user-attachments/assets/9c43395e-8d04-4e86-9c5f-ece9f4d227e7)
