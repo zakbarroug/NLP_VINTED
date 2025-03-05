@@ -1,4 +1,4 @@
-# 🔍 Moteur de Recherche d'Avis avec Explications
+# 🔍 Moteur de Recherche d'Avis avec explications
 
 Ce projet propose un moteur de recherche d'avis client de Vinted qui identifie rapidement les avis les plus pertinents et offre des explications claires sur leur intérêt.
 ![image](https://github.com/user-attachments/assets/9c43395e-8d04-4e86-9c5f-ece9f4d227e7)
